@@ -1,0 +1,39 @@
+html {
+}
+
+
+body {
+  font-family: 'Helvetica';
+}
+.header {
+  text-align: center;
+}
+h1 {
+  color: indigo;
+  text-align: center;
+  font-family: Verdana;
+}
+
+h2 {
+  text-align: center;
+  font-family: Georgia;
+  text-decoration: underline;
+}
+li {
+  display: inline-block;
+  font-family: Monaco;
+  border: 2px solid;
+  padding: 5px;
+  margin: 2px;
+  border-radius: 10px;
+  background-color: yellow;
+}
+table {
+  border-collapse: collapse;
+  justify-content: center;
+  border: 3px solid black;
+}
+th {
+  background-color: teal;
+  border: 3px solid black;
+}
